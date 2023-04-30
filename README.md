@@ -1,5 +1,5 @@
 # aitesters-forum-backup
-这是一个基于github搭建的论坛(?)
+这是一个基于github搭建的小型AI讨论论坛(?)
 https://github.com/viopsa233/aitesters-forum-backup/discussions
 
 
