@@ -7,4 +7,4 @@ https://github.com/viopsa233/aitesters-forum-backup/discussions
 
 截至目前该仓库访问量
 
-[![Page Views Count](https://badges.toozhao.com/badges/01GZ8PH1M1J2JX092FGT7DYFRB/green.svg)](https://github.com/viopsa233/aitesters-forum-backup "Get your own page views count badge on badges.toozhao.com")
+![:name](https://count.getloli.com/get/@:aitesters-forum-backup)
