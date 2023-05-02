@@ -1,4 +1,4 @@
-# aitesters-forum-backup
+# AI-testers-Forum
 
 这是一个基于github搭建的小型AI讨论论坛(?)
 
