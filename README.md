@@ -11,6 +11,12 @@
 
 以后会搭建一个真正的论坛吧(虽然不可能..............................)
 
-截至目前该仓库访问量
+## 截至目前该仓库访问量
 
 ![:name](https://count.getloli.com/get/@:aitesters-forum-backup)
+
+
+
+## GitHub仓库星标统计
+
+[![Star History Chart](https://api.star-history.com/svg?repos=viopsa233/AI-testers-Forum&type=Date)](https://star-history.com/#viopsa233/AI-testers-Forum&Date)
