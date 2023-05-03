@@ -6,7 +6,7 @@
 
 (图标正在考虑中,有想法的可以找我)
 
-你可以在本仓库的[Wiki](https://github.com/viopsa233/AI-testers-Forum/wiki)中查看主流的破解规则方法
+# 你可以在本仓库的[Wiki](https://github.com/viopsa233/AI-testers-Forum/wiki)中查看主流的破解规则方法
 
 
 以后会搭建一个真正的论坛吧(虽然不可能..............................)
