@@ -1,5 +1,7 @@
 # AI-testers-Forum
 
+# 贴吧来的给我狠狠的报告😡😡😡😡😡
+
 这是一个基于github搭建的小型AI讨论论坛(?)
 
 [讨论](https://github.com/viopsa233/aitesters-forum-backup/discussions)
