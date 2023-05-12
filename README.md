@@ -3,10 +3,8 @@
 
 这是一个基于github搭建的小型AI讨论论坛
 
-[讨论](https://github.com/viopsa233/aitesters-forum-backup/discussions)
+# [讨论](https://github.com/viopsa233/aitesters-forum-backup/discussions)
 
-
-# 你可以在本仓库的[Wiki](https://github.com/viopsa233/AI-testers-Forum/wiki)中查看主流的破解规则方法
 
 
 
